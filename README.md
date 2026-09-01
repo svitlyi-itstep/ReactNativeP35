@@ -8,3 +8,4 @@
 1. [Вступ до React Native](/Lessons/1_Intro.md)
 
 ## [💻 Самостійні завдання](/Homeworks/)
+1. [Створення застосунку "Трекер настрою"](/Homeworks/Homework_1.md)
