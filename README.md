@@ -14,3 +14,4 @@
 ## [💻 Самостійні завдання](/Homeworks/)
 1. [Створення застосунку "Трекер настрою"](/Homeworks/Homework_1.md)
 2. [Створення застосунку "To-do list"](/Homeworks/Homework_2.md)
+3. [Випадковий персонаж з Rick and Morty](/Homeworks/Homework_3.md)
